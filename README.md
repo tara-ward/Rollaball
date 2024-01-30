@@ -1,7 +1,14 @@
-# Rollaball
-Rollaball made in Unity by Tara Ward
+# Rollaball Game
+<p align="center">Rollaball made in Unity by Tara Ward<br>COMP32 Intro to Game Programming - Lab 1</p>
 
-![Rollaball Image](https://github.com/tara-ward/Rollaball/blob/main/image.png?raw=true)
+<p align="center">
+  <a href="https://github.com/tara-ward/Rollaball/raw/main/Ward%20-%20Rollaball.exe">Download my game</a> | 
+  <a href="https://learn.unity.com/project/roll-a-ball">Learn this project</a>
+</p>
 
-[![Rollaball Preview](http://img.youtube.com/vi/TBjuY9lt784/0.jpg)](http://www.youtube.com/watch?v=TBjuY9lt784)
-[Learn this project](https://learn.unity.com/project/roll-a-ball)
+<p align="center">
+  Youtube Preview:<br>
+  <a href="http://www.youtube.com/watch?v=TBjuY9lt784">
+    <img src="http://img.youtube.com/vi/TBjuY9lt784/0.jpg" alt="Rollaball Preview">
+  </a>
+</p>
